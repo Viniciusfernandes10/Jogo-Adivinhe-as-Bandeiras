@@ -1,0 +1,14 @@
+function tela3(){
+  background("#0458a3");{
+  image(img2, ximg, yimg, limg, himg);
+  fill("#FF5722");
+  rect(15, 14, 30, 25, 20);
+}
+  fill("#0C0C0C")
+  text("←",30,30);
+  textSize(19);
+  
+  text(".", 130, 212);
+  textSize(19);
+  fill("#050505");
+}
