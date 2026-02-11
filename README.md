@@ -1,7 +1,7 @@
 # Jogo – Adivinhe as Bandeiras
 
 🎮 Jogo educativo desenvolvido em **p5.js** para a disciplina de **Lógica da Programação (LOP)** da **UFRN**, ministrada pelo professor Aquiles Medeiros.  
-📌 *Projeto em desenvolvimento.*
+📌 *Projeto não finalizado.*
 
 ## Introdução
 O jogo **Adivinhe as Bandeiras** é uma maneira educativa de testar a habilidade de reconhecimento e memória visual do jogador(a), com o objetivo de expandir o conhecimento sobre as diferentes nações ao redor do mundo.  
