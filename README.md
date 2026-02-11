@@ -1,15 +1,18 @@
-# Jogo-Adivinhe-as-Bandeiras
-Jogo feito na matéria de Lógica da Programação da UFRN (Jogo Incompleto)
-# Meu jogo em p5.js
+# Jogo – Adivinhe as Bandeiras
 
-🎮 Jogo feito com p5.js como projeto educativo para a matéria de LOP do professor Aquiles Medeiros.
+🎮 Jogo educativo desenvolvido em **p5.js** para a disciplina de **Lógica da Programação (LOP)** da **UFRN**, ministrada pelo professor Aquiles Medeiros.  
+📌 *Projeto em desenvolvimento.*
 
 ## Introdução
-O jogo ADIVINHE AS BANDEIRAS, é uma educativa maneira de testar a habilidade de reconhecimento e memória visual do jogador(a), para expandir o seu conhecimento sobre as diferentes nações ao redor do mundo. Neste jogo, o objetivo principal é identificar corretamente as bandeiras dos países apresentadas.
+O jogo **Adivinhe as Bandeiras** é uma maneira educativa de testar a habilidade de reconhecimento e memória visual do jogador(a), com o objetivo de expandir o conhecimento sobre as diferentes nações ao redor do mundo.  
+Neste jogo, o objetivo principal é identificar corretamente as bandeiras dos países apresentadas.
 
 ## Como jogar
-Você precisa digitar o nome do País que representa a bandeira, cada acerto soma 10 pontos, caso erre o jogo reinicia.
+- Observe a bandeira exibida na tela  
+- Digite o nome do país correspondente  
+- Cada acerto soma **10 pontos**  
+- Ao errar uma vez, o jogo é reiniciado
 
 ## Tecnologias
-- JavaScript
+- JavaScript  
 - p5.js
